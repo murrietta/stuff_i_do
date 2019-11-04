@@ -1,0 +1,30 @@
+source,linkID,target,value
+Initial,Initial,First First,1
+Initial,Initial,Second First,1
+First First,First,First Second,1
+First First,First,Second Second,1
+First First,First,Third Second,1
+Second First,First,First Second,1
+Second First,First,Second Second,1
+Second First,First,Third Second,1
+First Second,Second,First Third,1
+First Second,Second,Second Third,1
+First Second,Second,Third Third,1
+Second Second,Second,First Third,1
+Second Second,Second,Second Third,1
+Second Second,Second,Third Third,1
+Third Second,Second,First Third,1
+Third Second,Second,Second Third,1
+Third Second,Second,Third Third,1
+First Third,Third,First Fourth,1
+First Third,Third,Second Fourth,1
+First Third,Third,Third Fourth,1
+First Third,Third,Fourth Fourth,1
+Second Third,Third,First Fourth,1
+Second Third,Third,Second Fourth,1
+Second Third,Third,Third Fourth,1
+Second Third,Third,Fourth Fourth,1
+Third Third,Third,First Fourth,1
+Third Third,Third,Second Fourth,1
+Third Third,Third,Third Fourth,1
+Third Third,Third,Fourth Fourth,1
